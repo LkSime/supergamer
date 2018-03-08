@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sxl.yxwd</string>
+				<string>lekai.tuibiji.xiamen</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>超级大玩家-线上娱乐城1</string>
+				<string>超级大玩家-线上娱乐城</string>
 			</dict>
 		</dict>
 	</array>
