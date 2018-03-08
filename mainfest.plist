@@ -1,4 +1,4 @@
-<!-- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -43,46 +43,5 @@
 			</dict>
 		</dict>
 	</array>
-</dict>
-</plist>
- -->
-
- <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>http://oss.4488.mobi/ipa/yingxiongwudi11-1.ipa</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>display-image</string>
-<key>needs-shine</key>
-<false/>
-<key>url</key>
-<string>http://oss.4488.mobi/ipa/yxwd4488.png</string>
-</dict>
-</array>
-<key>metadata</key> 
-<dict>
-<key>bundle-identifier</key>
-<string>com.sxl.yxwd</string>
-<key>bundle-version</key>
-<string>1.1</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>英雄无敌-4488手游平台（大于100M仅支持在WIFI下安装）</string>
-</dict>
-</dict>
-</array>
 </dict>
 </plist>
